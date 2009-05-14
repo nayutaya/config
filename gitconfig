@@ -1,0 +1,8 @@
+[user]
+	name = Yuya Kato
+	email = yuyakato@gmail.com
+[alias]
+	ci = commit
+	co = checkout
+	st = status -a
+	up = pull --rebase
