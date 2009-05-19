@@ -6,3 +6,8 @@
 	co = checkout
 	st = status -a
 	up = pull --rebase
+	br = branch
+[color]
+	diff = auto
+	status = auto
+	branch = auto
